@@ -1,0 +1,2 @@
+# Motor-Insurance-Fraud-Claim-Severity-End-to-End-Data-Analysis-Hypothesis-Testing-Power-BI-Reporting
+This project delivers an end-to-end analytics solution for identifying fraud patterns and modeling claim severity in the motor insurance domain. It combines statistical hypothesis testing (Python) with multi-page Power BI dashboards to convert raw claims data into actionable insights for executives, fraud teams, and underwriters.
